@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnereabel 
-- 👀 I’m interested in robotics(welding) and programming.
-- 🌱 I’m currently researching ai with a tello drone and darknet yolo ,learning python, django, delfoi on vcmx, roboplan from Cloos. 
+- 👀 I’m interested in robotics(welding) and programming 
+- 🌱 tello drone collision detection study,
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me arnereabel@gmail.com
 
