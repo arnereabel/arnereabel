@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnereabel 
 - 👀 I’m interested in robotics(welding) and programming 
-- 🌱 tello drone collision detection study,
+- 🌱 tello drone collision detection study, flutter app with tflite model prediction
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me arnereabel@gmail.com
 
