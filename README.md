@@ -1,6 +1,7 @@
 - Hi, I’m @arnereabel 
-- I’m interested in robotics(welding) and programming 
-- drone collision detection with yolo darknet,
+- I’m interested in robotics(welding) and programming
+- CLoos, Yaskawa , ABB 
+- Drone collision detection with yolo darknet
 - I’m looking to collaborate on everything.
 - How to reach me arnereabel@gmail.com
 
